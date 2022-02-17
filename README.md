@@ -8,4 +8,6 @@
                                                                 
                                                         How to Conatct me :-  t.me/UpperMoonX1
                                                         
-                                                    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rvnlil57obqaia32lde32upxx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+## 🎵 Now playing 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rvnlil57obqaia32lde32upxx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)

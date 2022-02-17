@@ -8,5 +8,4 @@
                                                                 
                                                         How to Conatct me :-  t.me/UpperMoonX1
                                                         
-                                                    https://github.com/Kokushibo-kizuki-1/Kokushibo-kizuki-1#-now-playing
-                                                      https://open.spotify.com/user/rvnlil57obqaia32lde32upxx
+                                                    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rvnlil57obqaia32lde32upxx&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)

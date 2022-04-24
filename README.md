@@ -6,7 +6,7 @@
                                                                  
       Learing Python  
                                                                 
- [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/UpperMoonX1)
+ [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/Yash_Sharma_1807)
                                                         
 ## 🎵 Now playing 
 

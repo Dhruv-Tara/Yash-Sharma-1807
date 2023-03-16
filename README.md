@@ -4,7 +4,7 @@
                                                                
        17 Years old 
                                                                  
-      Learing Python  
+    Learing Python,JavaScript  
                                                                 
  [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://t.me/Yash_Sharma_1807)
                                                         
